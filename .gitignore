@@ -1,0 +1,3 @@
+output.pdf
+tests/*
+!tests/*.cc
